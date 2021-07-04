@@ -11,3 +11,20 @@ TypeScript
 0.0.2（内测版本）
 
 版权所有© Xeocnet Studio
+
+
+# R-Keyboard
+
+An unfinished keyboard visualization tool. With it, you can use the keyboard at the same time in the lower right corner of the screen (the default) to view the case keys that are being pressed.
+
+# # architecture:
+
+C#
+
+TypeScript
+
+# # version:
+
+0.0.2 (private test version)
+
+Copyright © Xeocnet Studio
